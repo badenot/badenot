@@ -1,0 +1,26 @@
+h1,h2 {
+			font-weight: bold;
+			text-align: center;
+			background: lightblue;
+		}
+		.fet {
+			color: blue;
+		}
+		.fot {
+			color: red;
+		}`
+		.fit {
+			color: blue;
+		}
+		.ft {
+			color: darkred;
+		}
+		.ftt {
+			font-family: Arial;font-size: 16px;
+		}
+		li {
+			list-style: none;
+			padding: 10px;
+			border: 1px;
+			display: inline-block;
+		}
